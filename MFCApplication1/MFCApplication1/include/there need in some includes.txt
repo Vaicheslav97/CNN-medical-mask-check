@@ -1,0 +1,5 @@
+Eigen
+fdeep
+fplus
+nlohmann
+opencv2
